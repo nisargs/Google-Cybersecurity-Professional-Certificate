@@ -1,4 +1,5 @@
 # Google-Cybersecurity-Professional-Certificate
+
 This repository contains the learning objectives for all the 8 course covered in the course, as well as the portfolio activities associated with each.
 
 This course comprises eight series of courses:
@@ -14,10 +15,10 @@ This course comprises eight series of courses:
 
 Through the completion of the Certification on Coursera, I have acquired essential skills and proficiency in several key areas of cybersecurity:
 
-1. Python Programming: Leveraging Python for automating cybersecurity tasks, handling data types, and writing efficient code.
-2. Network Security: Understanding network protocols, intrusion tactics, and implementing security measures to safeguard networks against threats.
-3. Security Frameworks and Controls: Applying knowledge of security frameworks like NIST CSF and implementing controls to protect against vulnerabilities and risks.
-4. Incident Response: Learning the lifecycle of incidents, roles of incident response teams, and utilizing tools for documentation, detection, and management of security incidents.
-5. Security Information and Event Management (SIEM) Tools: Proficiency in using SIEM tools for log analysis, event correlation, and real-time monitoring to detect and respond to security threats effectively.
-6. Linux Operating System: Acquiring skills in navigating the Linux file system, managing permissions, and using command-line interfaces for security-related tasks.
-7. SQL (Structured Query Language): Gaining knowledge of SQL for database organization, querying, and analysis, crucial for investigating security incidents and managing data securely.
+1. _Python Programming_: Leveraging Python for automating cybersecurity tasks, handling data types, and writing efficient code.
+2. _Network Security_: Understanding network protocols, intrusion tactics, and implementing security measures to safeguard networks against threats.
+3. _Security Frameworks and Controls_: Applying knowledge of security frameworks like NIST CSF and implementing controls to protect against vulnerabilities and risks.
+4. _Incident Response_: Learning the lifecycle of incidents, roles of incident response teams, and utilizing tools for documentation, detection, and management of security incidents.
+5. _Security Information and Event Management (SIEM) Tools_: Proficiency in using SIEM tools for log analysis, event correlation, and real-time monitoring to detect and respond to security threats effectively.
+6. _Linux Operating System_: Acquiring skills in navigating the Linux file system, managing permissions, and using command-line interfaces for security-related tasks.
+7. _SQL (Structured Query Language)_: Gaining knowledge of SQL for database organization, querying, and analysis, crucial for investigating security incidents and managing data securely.
