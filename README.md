@@ -15,10 +15,10 @@ This course comprises eight series of courses:
 
 Through the completion of the Certification on Coursera, I have acquired essential skills and proficiency in several key areas of cybersecurity:
 
-1. _Python Programming_: Leveraging Python for automating cybersecurity tasks, handling data types, and writing efficient code.
-2. _Network Security_: Understanding network protocols, intrusion tactics, and implementing security measures to safeguard networks against threats.
-3. _Security Frameworks and Controls_: Applying knowledge of security frameworks like NIST CSF and implementing controls to protect against vulnerabilities and risks.
-4. _Incident Response_: Learning the lifecycle of incidents, roles of incident response teams, and utilizing tools for documentation, detection, and management of security incidents.
-5. _Security Information and Event Management (SIEM) Tools_: Proficiency in using SIEM tools for log analysis, event correlation, and real-time monitoring to detect and respond to security threats effectively.
-6. _Linux Operating System_: Acquiring skills in navigating the Linux file system, managing permissions, and using command-line interfaces for security-related tasks.
-7. _SQL (Structured Query Language)_: Gaining knowledge of SQL for database organization, querying, and analysis, crucial for investigating security incidents and managing data securely.
+1. <u>Python Programming</u>: Leveraging Python for automating cybersecurity tasks, handling data types, and writing efficient code.
+2. <u>Network Security</u>: Understanding network protocols, intrusion tactics, and implementing security measures to safeguard networks against threats.
+3. <u>Security Frameworks and Controls</u>: Applying knowledge of security frameworks like NIST CSF and implementing controls to protect against vulnerabilities and risks.
+4. <u>Incident Response</u>: Learning the lifecycle of incidents, roles of incident response teams, and utilizing tools for documentation, detection, and management of security incidents.
+5. <u>Security Information and Event Management (SIEM) Tools</u>: Proficiency in using SIEM tools for log analysis, event correlation, and real-time monitoring to detect and respond to security threats effectively.
+6. <u>Linux Operating System</u>: Acquiring skills in navigating the Linux file system, managing permissions, and using command-line interfaces for security-related tasks.
+7. <u>SQL (Structured Query Language)</u>: Gaining knowledge of SQL for database organization, querying, and analysis, crucial for investigating security incidents and managing data securely.
