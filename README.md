@@ -11,3 +11,13 @@ This course comprises eight series of courses:
 6. Sound the Alarm: Detection and Response
 7. Automate Cybersecurity Tasks with Python
 8. Put It to Work: Prepare for Cybersecurity Jobs
+
+Through the completion of the Certification on Coursera, I have acquired essential skills and proficiency in several key areas of cybersecurity:
+
+Python Programming: Leveraging Python for automating cybersecurity tasks, handling data types, and writing efficient code.
+Network Security: Understanding network protocols, intrusion tactics, and implementing security measures to safeguard networks against threats.
+Security Frameworks and Controls: Applying knowledge of security frameworks like NIST CSF and implementing controls to protect against vulnerabilities and risks.
+Incident Response: Learning the lifecycle of incidents, roles of incident response teams, and utilizing tools for documentation, detection, and management of security incidents.
+Security Information and Event Management (SIEM) Tools: Proficiency in using SIEM tools for log analysis, event correlation, and real-time monitoring to detect and respond to security threats effectively.
+Linux Operating System: Acquiring skills in navigating the Linux file system, managing permissions, and using command-line interfaces for security-related tasks.
+SQL (Structured Query Language): Gaining knowledge of SQL for database organization, querying, and analysis, crucial for investigating security incidents and managing data securely.
