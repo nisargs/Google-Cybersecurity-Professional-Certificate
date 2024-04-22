@@ -1,0 +1,25 @@
+Module 1:
+Explain the lifecycle of an incident.
+Determine the roles and responsibilities of incident response teams.
+Describe the tools used in the documentation, detection, and management of incidents.
+
+Module 2:
+Describe how network traffic analysis can help to detect, prevent, and respond to security incidents.
+Use packet sniffing tools to capture and view network communications.
+Analyze packets to interpret network communications.
+
+Module 3:
+Perform artifact investigations to analyze and verify security incidents.
+Illustrate documentation best practices during the incident response lifecycle.
+Assess alerts using evidence and determine the appropriate triaging steps.
+Identify the steps to contain, eradicate, and recover from an incident.
+Describe the processes and procedures involved in the post-incident phase.
+
+Module 4:
+
+Discuss the importance of logs during incident investigation.
+Determine how to read and analyze logs during incident investigation.
+Describe how common intrusion detection system (IDS) tools provide security value.
+Interpret the basic syntax and components of signatures and logs in IDS and NIDS tools.
+Describe how SIEM tools collect, normalize, and analyze log data.
+Perform queries in SIEM tools to investigate an incident.

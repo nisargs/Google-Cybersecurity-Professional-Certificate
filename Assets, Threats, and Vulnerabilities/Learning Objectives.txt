@@ -1,0 +1,27 @@
+Module 1:
+Define threat, vulnerability, asset, and risk.
+Explain security’s role in mitigating organizational risk.
+Classify assets based on value.
+Identify whether data is in use, in transit, or at rest.
+Discuss the uses and benefits of the NIST Cybersecurity Framework.
+
+Module 2:
+Identify effective data handling processes.
+Identify how security controls mitigate risk.
+Discuss the role encryption and hashing play in securing assets.
+Describe how to effectively use authentication as a security control.
+Describe effective authorization practices that verify user access.
+
+Module 3:
+Differentiate between vulnerabilities and threats.
+Describe the defense in depth strategy.
+Explain how common vulnerability exposures are identified by MITRE.
+Explain how vulnerability assessments are used to assess potential risk.
+Analyze an attack surface.
+Develop an attacker mindset to recognize threats.
+
+Module 4:
+Identify forms of social engineering.
+Identify different types of malware.
+Identify forms of web-based exploits.
+Summarize the threat modeling process.

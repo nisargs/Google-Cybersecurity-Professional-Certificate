@@ -1,0 +1,25 @@
+Module 1:
+Define types of networks
+Describe physical components of a network
+Understand how the TCP/IP model provides a framework for network communication
+Explain how data is sent and received over a network
+Explain network architecture
+
+Module 2:
+Recognize network protocols
+Describe the protocol(s) used to transmit and access data over wireless networks
+Describe a firewall
+Identify common network security measures and protocols
+
+Module 3:
+Describe network intrusion tactics
+Explain how to secure a network against intrusion tactics
+Investigate security breaches
+Understand different types of network attacks
+Troubleshoot basic network issues using appropriate tools and methods
+
+Module 4:
+Describe OS hardening techniques
+Describe network and cloud hardening techniques that target network vulnerabilities
+Describe network hardening techniques
+Explain cloud security practices

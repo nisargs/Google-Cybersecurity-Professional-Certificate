@@ -1,0 +1,29 @@
+Module 1:
+Recognize the importance of incident detection.
+Describe the importance of various asset types.
+Examine the relationship between events and incidents.
+Determine incidents that need to be escalated to stakeholders.
+Recognize the sensitive nature of secured assets and data.
+Explain how having an ethical security mindset supports an entry-level security analyst’s ability to protect secured assets and data
+
+Module 2:
+Define incident escalation from a security analyst perspective.
+Explore the various security incident classification types.
+Recognize the impact various security incidents have on business operations.
+Determine when and how to escalate a security incident.
+
+Module 3:
+Define stakeholders and describe their security roles.
+Communicate sensitive information with care and confidentiality.
+Determine the information that needs to be communicated to stakeholders.
+Examine how to create a dashboard to communicate essential information to stakeholders.
+
+Module 4:
+Identify reliable sources within the security community.
+Use reliable sources to remain current on the latest security threats, risks, vulnerabilities, and tools.
+Determine opportunities to become engaged with the security community.
+Determine ways to establish and advance a career in security, by engaging with the security community.
+
+Module 5:
+Describe how to find, apply for, and prepare for a job as a security analyst.
+Find, apply for, and prepare for job interviews.
